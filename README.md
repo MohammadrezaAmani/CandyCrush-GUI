@@ -62,7 +62,7 @@ It shows a winning message and then directs him to the menu page.
   - LR: A row row row candy
   - LC: Row of columnar type explosive candy
   - RC: Radial blast candy
--Third letter description:
+- Third letter description:
   - R: red color
   - G: green color
   - B: Blue color

@@ -38,7 +38,6 @@ public class Highscores extends JFrame {
                 break;
         }
         sc.close();
-
         JTextArea textArea = new JTextArea(Message);
         textArea.setEditable(false);
         textArea.setLineWrap(true);

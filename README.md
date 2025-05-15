@@ -1,6 +1,6 @@
 # Candy Crush GUI
 
-![Candy Crush](screenshots/game.png)
+![Candy Crush](./assets/game-layout.png)
 
 A modern, enhanced implementation of the classic Candy Crush game built with Java Swing. This project features a clean, modular architecture, smooth animations, advanced AI capabilities, multiple game modes, and more.
 

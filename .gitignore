@@ -1,0 +1,68 @@
+# Candy Crush GUI .gitignore
+
+# Compiled class files
+*.class
+bin/
+target/
+build/
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# User-specific files
+*.iml
+.idea/
+.vscode/
+nbproject/
+.settings/
+.project
+.classpath
+
+# Log files
+*.log
+logs/
+log/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+.*.swp
+*.orig
+
+# Game-specific
+user.properties
+highscores.dat
+savedata/
+screenshots/
+
+# Virtual Machine crash logs
+hs_err_pid*
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
